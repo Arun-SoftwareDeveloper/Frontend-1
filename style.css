@@ -24,7 +24,7 @@ body {
   padding: 20px;
   margin-bottom: 20px; /* Add some space between left and right containers */
   height: 100vh; /* Set height to fill the viewport */
-  /* overflow: auto; */
+  overflow: auto;
 }
 
 .title {
